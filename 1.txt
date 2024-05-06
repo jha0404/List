@@ -1,0 +1,11 @@
+NAMESPACE     NAME                                   READY   STATUS    RESTARTS   AGE
+kube-system   coredns-6d4b75cb6d-qg6wm               1/1     Running   0          51m
+kube-system   coredns-6d4b75cb6d-vv47j               1/1     Running   0          51m
+kube-system   etcd-controlplane                      1/1     Running   0          51m
+kube-system   kube-apiserver-controlplane            1/1     Running   0          51m
+kube-system   kube-controller-manager-controlplane   1/1     Running   0          51m
+kube-system   kube-flannel-ds-48j7d                  1/1     Running   0          51m
+kube-system   kube-flannel-ds-5ls6g                  1/1     Running   0          51m
+kube-system   kube-proxy-r57x9                       1/1     Running   0          51m
+kube-system   kube-proxy-sm9ln                       1/1     Running   0          51m
+kube-system   kube-scheduler-controlplane            1/1     Running   0          51m
